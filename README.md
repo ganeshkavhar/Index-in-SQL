@@ -29,4 +29,4 @@ Syntax:
 **CREATE INDEX index_name on table_name (column1, column2);**
 
 
-@github/ganeshkavhar
+@github/[ganeshkavhar](https://ganeshmkavhar.netlify.app/)
